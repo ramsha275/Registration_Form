@@ -1,0 +1,50 @@
+.sub{
+    background-color:rgb(114, 65, 230); 
+    margin-right: 250px;
+    margin-left: 250px;
+    margin-bottom: 100px;
+}
+
+img,h2{
+    margin-left: 450px;
+    color :rgb(83, 43, 175)
+}
+
+/* h1,h2{
+    /* background-color: white; */
+    /* color :rgb(114, 65, 230) ; */
+ 
+
+label{
+    width: 150px;
+    display: inline-block;
+    margin-left: 12px;
+}
+
+.field {
+    vertical-align: text-top;
+  }
+
+.text_align{
+    margin-left: 160px;
+    
+    
+}
+
+.a{
+    margin-top: 0px;
+    margin-left: 350px;
+}
+
+.b{
+    margin-left: 90px;
+}
+
+div,span,label,.text_align{
+    color: white;
+}
+
+.button{
+    margin-left:  350px;
+    margin-bottom: 20px;
+}
